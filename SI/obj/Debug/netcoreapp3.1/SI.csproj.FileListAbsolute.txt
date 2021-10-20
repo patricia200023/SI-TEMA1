@@ -1,0 +1,13 @@
+/home/patricia/SI/bin/Debug/netcoreapp3.1/SI
+/home/patricia/SI/bin/Debug/netcoreapp3.1/SI.deps.json
+/home/patricia/SI/bin/Debug/netcoreapp3.1/SI.runtimeconfig.json
+/home/patricia/SI/bin/Debug/netcoreapp3.1/SI.runtimeconfig.dev.json
+/home/patricia/SI/bin/Debug/netcoreapp3.1/SI.dll
+/home/patricia/SI/bin/Debug/netcoreapp3.1/SI.pdb
+/home/patricia/SI/obj/Debug/netcoreapp3.1/SI.csprojAssemblyReference.cache
+/home/patricia/SI/obj/Debug/netcoreapp3.1/SI.AssemblyInfoInputs.cache
+/home/patricia/SI/obj/Debug/netcoreapp3.1/SI.AssemblyInfo.cs
+/home/patricia/SI/obj/Debug/netcoreapp3.1/SI.csproj.CoreCompileInputs.cache
+/home/patricia/SI/obj/Debug/netcoreapp3.1/SI.dll
+/home/patricia/SI/obj/Debug/netcoreapp3.1/SI.pdb
+/home/patricia/SI/obj/Debug/netcoreapp3.1/SI.genruntimeconfig.cache
